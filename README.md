@@ -1,16 +1,23 @@
-## Hi there 👋
+# Jaspreet Singh
 
-<!--
-**jass-hpc/jass-hpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Architect specializing in **GPU & HPC automation platforms**, hybrid cloud HPC, and large-scale infrastructure.
 
-Here are some ideas to get you started:
+## What I do
+- Architect and operate **GPU/HPC clusters** using IBM Spectrum LSF and Slurm
+- Design **automation-first infrastructure** (bare metal, Ansible, CI/CD integration)
+- Build **hybrid HPC environments**, including AWS-based burst and Spot compute
+- Focus on **performance, reliability, and cost efficiency** at scale
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of experience
+- GPU & HPC Infrastructure Architecture
+- LSF / Slurm Scheduling & Resource Governance
+- Bare-metal provisioning (PXE, iPXE, Kickstart)
+- Infrastructure automation (Ansible, Bash)
+- Hybrid HPC on AWS (EC2, Spot, Auto Scaling)
+- Monitoring & observability (Prometheus, Datadog)
+- High-performance storage (Weka, Pure Storage)
+
+## About this GitHub
+Most of my professional work has been on internal and proprietary systems.
+This GitHub contains **reference implementations, examples, and documentation**
+that reflect real-world HPC and infrastructure patterns.
